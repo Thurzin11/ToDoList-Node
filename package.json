@@ -1,0 +1,14 @@
+{
+  "name": "todolist-node",
+  "version": "1.0.0",
+  "description": "Projeto para aprender MVC com node js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Arthur Santos Gonçalves",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
